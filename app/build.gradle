@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "cosmin.criptochat.android"
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:23.3.0'
+    implementation 'com.firebase:firebase-client-android:2.5.2+'
+    implementation 'com.google.firebase:firebase-auth:9.0.2'
+
+    implementation 'com.android.support:recyclerview-v7:+'
+    implementation 'de.hdodenhof:circleimageview:2.0.0'
+}
+

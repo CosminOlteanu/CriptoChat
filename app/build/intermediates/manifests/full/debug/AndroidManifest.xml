@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cosmin.criptochat.android"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:name="cosmin.criptochat.android.CriptoChatFireBaseApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="cosmin.criptochat.android.ui.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cosmin.criptochat.android.ui.LogInActivity"
+            android:label="@string/title_activity_log_in"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cosmin.criptochat.android.ui.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cosmin.criptochat.android.ui.ChatActivity"
+            android:label="@string/title_activity_chat"
+            android:parentActivityName="cosmin.criptochat.android.ui.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="cosmin.criptochat.android.ui.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="cosmin.criptochat.android.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

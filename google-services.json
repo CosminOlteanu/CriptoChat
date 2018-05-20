@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158823072601",
+    "firebase_url": "https://criptochat-39436.firebaseio.com",
+    "project_id": "criptochat-39436",
+    "storage_bucket": "criptochat-39436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158823072601:android:375c0188da3788f6",
+        "android_client_info": {
+          "package_name": "cosmin.chat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158823072601-9jsiqr78i11kss6fs593jpbcrjacom3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqrsSc57Q6XV9dROtoACL-W7V1cwRTmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_4cfeedb049b5cbe51eb5935bec0393bc10e212c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_42bad23be06e7e7407b741302e978c89bb4c7e93.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_236c3c224ce86c30824d2e1f63865c7aa3348e3e.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.2_c5ca60e5a8057d5f71d794302774d41fbe7b33b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_b5ccf75b7a1e18e90ebf7d54147052cee84c5398.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_43d514148d6dc66996a4b698a5df982dc60564de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_6957afae46f7f1fd127402b8bbe1cbbd95645d86.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.0.0_1812a9629652b49827cba3fb69a79da48be7b0d4.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_451bdc26d31f33fbcf0e603a63b7ae57920eb2d7.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_618686348987742f13d5ae7df13857841c1eb9ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_af7beae10313b4a010c1eb696674cedb0c7ac017.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_b80f67140066a2befd6275905cf77396c208866f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.5.2_34faa793b06837c8af321981df074979710daf73.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_ea8c5b130149d5a7b1c261f5b78bd1d3f0d029b3.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_56360417acd5ff4a05fb2f9cb9b846ba33960b42.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.2_c1147bbc6c459fb7d6a95566e38bd7a680d53e39.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_561e434fd8dcd4e726394defb2667ec8b218d67d.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.2_443252c36368755a46718e390e1c30bbd2d438f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_091e2f9213c72545673e168c023c2f2b2c148594.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cosmin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b2676b6ce2876aeefd414dbcb4b5c95d58473777.jar" />
+    </item>
+    <item
+        jar="E:\LICENTA\CriptoChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\LICENTA\CriptoChat\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_c669dad1a50c9a4582f756e73bdae633c744793f.jar" />
+    </item>
+
+</items>
